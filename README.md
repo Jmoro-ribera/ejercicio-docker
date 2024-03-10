@@ -3,7 +3,7 @@
 ## Descripción
 
 Son contenedores docker con los siguientes servicios:	
-- 2 servidores web que muestren una página editada con lo que desees y se consuman por el puerto 8555.
+- 2 servidores web que muestren una página editada sencilla y se consuman por el puerto 8555.
 - 1 pequeño proxy para balancear el tráfico entre los 2 servidores web y recibir el tráfico por http(puerto 80).
 
 
