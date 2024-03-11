@@ -9,7 +9,7 @@ Son contenedores docker con los siguientes servicios:
 
 ## Pre-requisitos
 
-Se debe de tener instalado docker en el sistema y configurado el mismo para que un usuario que no sea root, pueda ejecutar los comandos. Sino, se debe añadir "sudo" al principio de todos los comandos.
+Se debe de descargar este repositori, tener instalado docker en el sistema y configurado el mismo. Si usa una distribución de Linux, debe configurarlo para que un usuario que no sea root, pueda ejecutar los comandos. Sino, se debe añadir "sudo" al principio de todos los comandos.
 
 ## Despliegue
 
